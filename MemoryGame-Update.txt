@@ -1,0 +1,4 @@
+- show 2 button (start n exit)
+- Remove top bar
+- keep the timer (remaining time to close)
+-finish game show result
